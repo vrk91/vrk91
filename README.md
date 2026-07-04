@@ -11,7 +11,6 @@ while deepening my understanding of GCP and AWS architecture patterns.
 
 ---
 
-## 📌 What I'm Studying
 
 | Repo | Topic |
 |------|-------|
