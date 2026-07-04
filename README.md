@@ -20,6 +20,11 @@ while deepening my understanding of GCP and AWS architecture patterns.
 | [gcp-observability-study](https://github.com/vrk91/gcp-observability-study) | EFK stack, Prometheus/Grafana, Terraform alert policies |
 | [dialogflow-cx-chatbot-study](https://github.com/vrk91/dialogflow-cx-chatbot-study) | Dialogflow CX, Cloud Functions, Pub/Sub async patterns |
 | [aws-eks-migration-study](https://github.com/vrk91/aws-eks-migration-study) | EKS, strangler fig migration, GitHub Actions OIDC CI/CD |
+| recaptcha-enterprise-study        | reCAPTCHA Enterprise — bot detection, risk scoring, Terraform keys |
+| nagios-to-cloud-monitoring-study  | Nagios migration → Cloud Monitoring, custom metric agents |
+| cloud-run-microservices-study     | Cloud Run — SIGTERM handling, canary deploys, VPC egress |
+| fluentd-log-pipeline-study        | Fluentd — DaemonSet, PII redaction, multi-destination fan-out |
+| google-secops-study               | YARA-L 2.0 detection rules, UDM, Chronicle/SecOps SIEM |
 
 ---
 
